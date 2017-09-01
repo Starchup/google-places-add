@@ -1,0 +1,17 @@
+{
+    "name": "google-places-add",
+    "version": "1.0.2",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/Starchup/google-places-add"
+    },
+    "scripts": {
+        "new-place": "node newPlace.js"
+    },
+    "dependencies": {
+        "node-googleplaces": "^0.1.2"
+    },
+    "engines": {
+        "node": ">=6.5.0"
+    }
+}
